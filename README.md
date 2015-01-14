@@ -1,5 +1,5 @@
-# ooc-beanchmark
-Benchmark programs for ooc programming langugae
+# ooc(rock)-beanchmark
+Benchmark programs for rock, an implemention of ooc programming langugae
 
 Clone this, or just copy them to your repo.
 
