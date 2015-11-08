@@ -21,7 +21,6 @@ Node: class{
         version(!gc){
             if(left) left free()
             if(right) right free()
-            super()
         }
     }
 }
